@@ -1,0 +1,35 @@
+@charset "utf-8";
+/* CSS Document */
+
+h1 {
+	color:#FFF;
+	font-family: 'Special Elite', "Courier New", Courier, type;
+	font-size:36px;	
+}
+
+body {
+	background-color:#141414;
+	margin: O auto;
+}
+
+input {
+	background-color:#000;
+	margin: O auto;
+	color:#FFF;
+	font-family: 'Special Elite', "Courier New", Courier, type;
+	font-size:18px;
+	/*width:470px;*/
+	width:99%;
+}
+
+.message {
+	color:#FFF;
+	font-family: "Courier New", Courier, type;
+	font-size:18px;
+	line-height:150%;
+	margin-top:20px;
+}
+
+#music {
+	display:none;
+}
